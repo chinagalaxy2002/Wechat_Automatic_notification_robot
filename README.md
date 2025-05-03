@@ -1,8 +1,8 @@
 # 微信通知助手
 
-<div align="center">
+<div align="left">
   <p>一个基于Python的微信批量消息发送工具，可以自动读取联系人名单并发送自定义消息。</p>
-  <p>编译好的文件见右侧release处下载。</p>
+  <p>✨编译好的文件见右侧release处下载✨</p>
 </div>
 
 <div align="center">
