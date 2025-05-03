@@ -3,7 +3,8 @@
 一个基于Python的微信批量消息发送工具，可以自动读取联系人名单并发送自定义消息。
 
 编译好的文件见右侧release处下载。
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8891040e-238c-4f8e-8fae-72657bf05ac1)
+
 
 ## ✨ 功能特点
 
