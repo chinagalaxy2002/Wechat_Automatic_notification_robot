@@ -11,22 +11,12 @@
 
 ## ✨ 功能特点
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">📨 批量发送微信消息</td>
-      <td align="center">📋 支持从文件导入联系人名单</td>
-    </tr>
-    <tr>
-      <td align="center">🖥️ 图形用户界面，操作简单</td>
-      <td align="center">📊 实时显示发送进度</td>
-    </tr>
-    <tr>
-      <td align="center">📝 详细的日志记录</td>
-      <td align="center">⏹️ 支持发送过程中的中断</td>
-    </tr>
-  </table>
-</div>
+- 📨 批量发送微信消息
+- 📋 支持从文件导入联系人名单
+- 🖥️ 图形用户界面，操作简单
+- 📊 实时显示发送进度
+- 📝 详细的日志记录
+- ⏹️ 支持发送过程中的中断
 
 ## 💻 系统要求
 
