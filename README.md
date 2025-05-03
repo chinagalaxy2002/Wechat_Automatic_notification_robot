@@ -1,19 +1,32 @@
 # 微信通知助手
 
-一个基于Python的微信批量消息发送工具，可以自动读取联系人名单并发送自定义消息。
+<div align="center">
+  <p>一个基于Python的微信批量消息发送工具，可以自动读取联系人名单并发送自定义消息。</p>
+  <p>编译好的文件见右侧release处下载。</p>
+</div>
 
-编译好的文件见右侧release处下载。
-![image](https://github.com/user-attachments/assets/8891040e-238c-4f8e-8fae-72657bf05ac1)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8891040e-238c-4f8e-8fae-72657bf05ac1" alt="微信通知助手" width="600px">
+</div>
 
 ## ✨ 功能特点
 
-- 📨 批量发送微信消息
-- 📋 支持从文件导入联系人名单
-- 🖥️ 图形用户界面，操作简单
-- 📊 实时显示发送进度
-- 📝 详细的日志记录
-- ⏹️ 支持发送过程中的中断
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">📨 批量发送微信消息</td>
+      <td align="center">📋 支持从文件导入联系人名单</td>
+    </tr>
+    <tr>
+      <td align="center">🖥️ 图形用户界面，操作简单</td>
+      <td align="center">📊 实时显示发送进度</td>
+    </tr>
+    <tr>
+      <td align="center">📝 详细的日志记录</td>
+      <td align="center">⏹️ 支持发送过程中的中断</td>
+    </tr>
+  </table>
+</div>
 
 ## 💻 系统要求
 
